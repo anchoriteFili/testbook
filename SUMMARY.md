@@ -4,5 +4,5 @@
 * [方法](methods.md)
   * [onReq\(\_ req: BaseReq!\)](methods/onreqreq-basereq.md)
 * [方法](new.md)
-  * [lock](new/lock.md)
+  * [methods.md](new/methodsmd.md)
 
