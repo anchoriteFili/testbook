@@ -23,7 +23,5 @@
     }
 ```
 
-http:\\www.baidu.com
-
 
 
